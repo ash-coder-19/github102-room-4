@@ -1,9 +1,7 @@
-# Example recipe
+# my Hobby
+Cooking
 
-## Ingredients
+## Where I learnt
 
-Add the ingredients list here.
+my mother and reciped all over the internet
 
-## Instructions
-
-Add the recipe description here.
